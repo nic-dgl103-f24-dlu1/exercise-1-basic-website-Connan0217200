@@ -10,4 +10,8 @@ h2{
 p{
     padding-bottom: 15px;
     font-size: 19px;
+    color: orange;
+}
+img{
+    padding-left: 20px;
 }
